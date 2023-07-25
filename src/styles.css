@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #6527be;
+  background-image: url("https://www.transparenttextures.com/patterns/my-little-plaid-dark.png");
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+}

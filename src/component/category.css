@@ -1,0 +1,24 @@
+.categoryCard {
+    margin-top: 20px;
+    max-width: 500px;
+    box-shadow: #2e178f 30px 30px 0px;
+    border-radius: 15px;
+    transition: transform 400ms, box-shadow 400ms;
+  
+    background-color: #9681eb;
+    background-image: url("https://www.transparenttextures.com/patterns/perforated-white-leather.png");
+    padding: 10px;
+  }
+
+
+  .startButton {
+    background-color: #9765df;
+    box-shadow: #6527be 4px 4px 0px;
+    border-radius: 8px;
+    transition: transform 200ms, box-shadow 200ms;
+  }
+  
+  .startButton:active {
+    transform: translateY(4px) translateX(4px);
+    box-shadow: #9765df 0px 0px 0px;
+  }
